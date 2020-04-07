@@ -1,0 +1,55 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(99, 141, 231);
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+.box-maps{
+    margin: auto;
+    position: relative;
+    width: 800px;
+    height: 500px;
+    margin-bottom: 50px;
+}
+
+.nav-item{
+    margin-top: 4%;
+    margin-left: 7%;
+}
+
+.content h2{
+    text-align: center;
+}
+
+#weather{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    font-family: 'Noto Serif', serif;
+    
+}
+
+footer {
+    background-color: #3f3f3f;
+    color: #d5d5d5;
+    padding: 60px;
+    margin-top: 100px;
+  }
+
+  footer h5{
+      text-transform: uppercase;
+  }
+  
+  hr .border {
+    width: 75%;
+  }
+  
+  hr .socket {
+    border-top: 2px solid #d5d5d5;
+    padding: 20px;
+  }
